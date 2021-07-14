@@ -5,7 +5,6 @@ if (life.sad() == True):
   life.happiness = life.happiness + Infinity
 ```
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a porject called ACIPS (Autonomous Crash Investigation and Prevention System) and a few games in unity.
 - 🌱 I’m currently learning C++/C.
