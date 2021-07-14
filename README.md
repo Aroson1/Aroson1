@@ -1,8 +1,9 @@
-### Hi there 👋
-
-<!--
-**Aroson1/Aroson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hola fellow human 
+```python
+if (life.sad() == True):
+  life.sad().setmood = False
+  life.happiness = life.happiness + Infinity
+```
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<!--
+**Aroson1/Aroson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 -->
