@@ -19,7 +19,7 @@ if (life.sad() == True):
 
 - I’m currently working on a project called ACIPS (Autonomous Crash Investigation and Prevention System).
 - I also drive into game development with the lastest one being ADAMENTAL VOYAGE...
-- How to reach me: By Advanced automated data deleviry system(email): alienxatomic@gmail.com or at my website [Alienx Atomic](https://alienx-atomic.xyz/)
+- How to reach me: By automated data packet delivery system (email): alienxatomic@gmail.com or at my website [Alienx Atomic](https://alienx-atomic.xyz/)
 
 ***Note: Almost all my repos are private.***
 
