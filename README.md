@@ -8,7 +8,7 @@
 
 ```python
 if (life.sad() == True):
-  life.sad().setmood = False
+  life.sad().setMood = False
   life.happiness = life.happiness + Infinity
 ```
 
