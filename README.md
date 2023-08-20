@@ -18,7 +18,7 @@ if (life.sad() == True):
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="408" height="318"/>
 
 - I’m currently working on a project called **Agran-X**, a techno-agriculture soultion for percision farming and AI based monitoring/health system. 
-- I also drive into game development with the lastest one being ADAMENTAL VOYAGE...
+- I also dive into game development with the lastest one being ADAMENTAL VOYAGE...
 - How to reach me: By automated data packet delivery system (email): alienxatomic@gmail.com or at my website [Alienx Atomic](https://alienxatomic.ml/)
 
 ***Note: Almost all my repos are private.***
