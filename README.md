@@ -19,7 +19,7 @@ if (life.sad() == True):
 
 - I’m currently working on a project called **Agran-X**, a techno-agriculture soultion for percision farming and AI based monitoring/health system. 
 - I also dive into game development with the lastest one being ADAMENTAL VOYAGE...
-- How to reach me: By automated data packet delivery system (email): alienxatomic@gmail.com or at my website [Alienx Atomic](https://alienxatomic.ml/)
+- How to reach me: By automated data packet delivery system (email): alienxatomic@gmail.com or at my website [Alienx Atomic](https://alienxatomic.xyz/)
 
 ***Note: Almost all my repos are private.***
 
