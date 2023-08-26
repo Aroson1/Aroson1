@@ -1,7 +1,7 @@
 ### Hola fellow human  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alienxatomic.ml/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alienxatomic.xyz/)
 [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/The_Aroson)
 [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-2ed9b9?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Alex-Gijo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alex-gijo)
@@ -19,7 +19,7 @@ if (life.sad() == True):
 
 - I’m currently working on a project called **Agran-X**, a techno-agriculture soultion for percision farming and AI based monitoring/health system. 
 - I also dive into game development with the lastest one being ADAMENTAL VOYAGE...
-- How to reach me: By automated data packet delivery system (email): alienxatomic@gmail.com or at my website [Alienx Atomic](https://alinex-atomic-website.onrender.com/)
+- How to reach me: By automated data packet delivery system (email): alienxatomic@gmail.com or at my website [Alienx Atomic](https://www.alienxatomic.xyz/)
 
 ***Note: Almost all my repos are private.***
 
