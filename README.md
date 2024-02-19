@@ -21,7 +21,7 @@ if (life.Mood.isSad() == True):
 - I also dive into game development with the lastest one being ADAMENTAL VOYAGE...
 - How to reach me: By automated data packet delivery system (email): alienxatomic@gmail.com or at my website [Alienx Atomic](https://www.alienxatomic.xyz/)
 
-***Note: Almost all my repos are private.***
+
 
 <!--
 
