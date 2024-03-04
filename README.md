@@ -1,6 +1,6 @@
 ### Hola fellow human  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-
+<!--
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alienxatomic.xyz/)
 [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/The_Aroson)
 [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-2ed9b9?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Alex-Gijo)
@@ -21,7 +21,7 @@ if (life.Mood.isSad() == True):
 - I also dive into game development with the lastest one being ADAMENTAL VOYAGE...
 - How to reach me: By automated data packet delivery system (email): alienxatomic@gmail.com or at my website [Alienx Atomic](https://www.alienxatomic.xyz/)
 
-
+-->
 
 <!--
 
